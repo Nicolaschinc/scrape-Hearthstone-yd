@@ -1,0 +1,23 @@
+{
+  "name": "scrape-hearthstone-yd",
+  "version": "1.0.0",
+  "description": "抓取炉石套牌信息",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikolaChin/scrape-Hearthstone-yd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikolaChin/scrape-Hearthstone-yd/issues"
+  },
+  "homepage": "https://github.com/NikolaChin/scrape-Hearthstone-yd#readme",
+  "devDependencies": {
+    "puppeteer": "^1.5.0"
+  }
+}
